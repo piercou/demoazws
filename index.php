@@ -9,6 +9,6 @@
         <title></title>
     </head>
     <body>
-        Quick demo. does nothing useful, but automatically.
+        Quick demo. does nothing useful.
     </body>
 </html>
